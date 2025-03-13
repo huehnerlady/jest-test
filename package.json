@@ -72,8 +72,7 @@
       "e2e-tests"
     ],
     "reporters": [
-      "default",
-      "jest-junit"
+      "default"
     ],
     "clearMocks": true
   }
